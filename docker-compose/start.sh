@@ -1,1 +1,1 @@
-docker-compose -f geth.yml up -d
+docker compose -f geth.yml up -d
